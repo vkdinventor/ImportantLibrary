@@ -22,10 +22,14 @@ http://creativecommons.org/licenses/by/3.0/ (incompetech.com)
  
  
  DragListView: https://github.com/woxblom/DragListView 
-Calligraphy: https://github.com/chrisjenx/Calligraphy 
-RecyclerView-FastScroll: https://github.com/timusus/RecyclerView-FastScroll 
-Recyclerview-animators: https://github.com/wasabeef/recyclerview-animators 
-TSnackBar: https://github.com/AndreiD/TSnackBar 
-SwitchButton: https://github.com/kyleduo/SwitchButton 
-Circularseekbar: https://github.com/devadvance/circularseekbar 
+ Calligraphy: https://github.com/chrisjenx/Calligraphy 
+ RecyclerView-FastScroll: https://github.com/timusus/RecyclerView-FastScroll 
+ Recyclerview-animators: https://github.com/wasabeef/recyclerview-animators 
+ TSnackBar: https://github.com/AndreiD/TSnackBar 
+ SwitchButton: https://github.com/kyleduo/SwitchButton 
+ Circularseekbar: https://github.com/devadvance/circularseekbar 
+
+* Glide for image loading and caching (https://github.com/bumptech/glide)
+* AVLoadingIndicatorView for progress loading (https://github.com/81813780/AVLoadingIndicatorView)
+* GuillotineMenu to implement guillotine animation (https://github.com/Yalantis/GuillotineMenu-Android)
 
