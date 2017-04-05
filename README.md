@@ -19,3 +19,13 @@ This project contains important project list and free resources
 http://creativecommons.org/licenses/by/3.0/ (incompetech.com)
 
  https://github.com/johnrao7/Musica_The_Music_Player
+ 
+ 
+ DragListView: https://github.com/woxblom/DragListView 
+Calligraphy: https://github.com/chrisjenx/Calligraphy 
+RecyclerView-FastScroll: https://github.com/timusus/RecyclerView-FastScroll 
+Recyclerview-animators: https://github.com/wasabeef/recyclerview-animators 
+TSnackBar: https://github.com/AndreiD/TSnackBar 
+SwitchButton: https://github.com/kyleduo/SwitchButton 
+Circularseekbar: https://github.com/devadvance/circularseekbar 
+
