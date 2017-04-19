@@ -1,6 +1,7 @@
 # ScreenShot Generator 
 * https://theapplaunchpad.com/
 * https://screenshots.appure.io/apps
+* https://appinstitute.com/app-screenshot-maker/screenshot?platform=android   100% free
 
 
 
