@@ -21,6 +21,7 @@ This File  contains important project list and free resources
 
 # Free resource
 
+* List of website for free images https://blog.snappa.com/free-stock-photos/
 * http://www.clipartbest.com/
 * https://unsplash.com/
 * https://www.webresourcesfree.com
@@ -28,9 +29,9 @@ This File  contains important project list and free resources
 * Licensed under Creative Commons: By Attribution 3.0 License
 * http://creativecommons.org/licenses/by/3.0/ (incompetech.com)
 
- * https://github.com/johnrao7/Musica_The_Music_Player
- 
- 
+# Useful Library 
+
+ * https://github.com/johnrao7/Musica_The_Music_Player 
  * DragListView: https://github.com/woxblom/DragListView 
  * Calligraphy: https://github.com/chrisjenx/Calligraphy 
  * RecyclerView-FastScroll: https://github.com/timusus/RecyclerView-FastScroll 
