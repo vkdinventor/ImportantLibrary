@@ -15,6 +15,7 @@
 * App Icon Designed by Freepik.com 
 * Licensed under Creative Commons: By Attribution 3.0 License
 * http://creativecommons.org/licenses/by/3.0/ (incompetech.com)
+* App Icon https://icons8.com/
 
 # ImportantLibrary
 This File  contains important project list and free resources
