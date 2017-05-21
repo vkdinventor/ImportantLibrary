@@ -4,6 +4,11 @@
 * https://appinstitute.com/app-screenshot-maker/screenshot?platform=android   100% free
 * https://launchkit.io/screenshots/
 
+# Material design guidline
+* official website : https://material.io/guidelines/style/color.html#color-usability
+* platte generator : https://www.materialpalette.com/blue/deep-orange
+* platte generator : https://codecrafted.net/randommaterial/
+
 
 # Free resource
 
