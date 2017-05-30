@@ -47,3 +47,6 @@ This File  contains important project list and free resources
 * AVLoadingIndicatorView for progress loading (https://github.com/81813780/AVLoadingIndicatorView)
 * GuillotineMenu to implement guillotine animation (https://github.com/Yalantis/GuillotineMenu-Android)
 
+#SHA key generation 
+* https://developers.google.com/android/guides/client-auth
+* https://coderwall.com/p/r09hoq/android-generate-release-debug-keystores
