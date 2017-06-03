@@ -24,7 +24,7 @@
 
 # ImportantLibrary
 This File  contains important project list and free resources
-
+* Drag item to change position in list view https://github.com/iPaulPro/Android-ItemTouchHelper-Demo
 * https://github.com/CyanogenMod/android_packages_apps_Eleven
 * https://github.com/adnan-SM/TimelyTextView
 * https://github.com/naman14/Timber
@@ -47,6 +47,6 @@ This File  contains important project list and free resources
 * AVLoadingIndicatorView for progress loading (https://github.com/81813780/AVLoadingIndicatorView)
 * GuillotineMenu to implement guillotine animation (https://github.com/Yalantis/GuillotineMenu-Android)
 
-#SHA key generation 
+# SHA key generation 
 * https://developers.google.com/android/guides/client-auth
 * https://coderwall.com/p/r09hoq/android-generate-release-debug-keystores
