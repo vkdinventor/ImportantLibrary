@@ -50,3 +50,5 @@ This File  contains important project list and free resources
 # SHA key generation 
 * https://developers.google.com/android/guides/client-auth
 * https://coderwall.com/p/r09hoq/android-generate-release-debug-keystores
+* facebook sha1 generation keytool -exportcert -alias androiddebugkey -keystore debug.keystore | openssl sha1 -binary | openssl base64
+
