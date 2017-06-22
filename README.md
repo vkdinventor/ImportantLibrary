@@ -46,6 +46,7 @@ This File  contains important project list and free resources
 * Glide for image loading and caching (https://github.com/bumptech/glide)
 * AVLoadingIndicatorView for progress loading (https://github.com/81813780/AVLoadingIndicatorView)
 * GuillotineMenu to implement guillotine animation (https://github.com/Yalantis/GuillotineMenu-Android)
+* FullScreen image viewer
 
 # SHA key generation 
 * https://developers.google.com/android/guides/client-auth
