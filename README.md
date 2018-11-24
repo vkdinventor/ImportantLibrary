@@ -1,3 +1,6 @@
+# Privacy policy error 
+*https://blog.usejournal.com/how-to-fix-advertising-id-policy-violation-in-google-play-store-6d9cf92d335d
+
 # ScreenShot Generator 
 * https://theapplaunchpad.com/
 * https://screenshots.appure.io/apps
