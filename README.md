@@ -1,4 +1,5 @@
 # Privacy policy error 
+* https://app-privacy-policy-generator.firebaseapp.com/
 * https://blog.usejournal.com/how-to-fix-advertising-id-policy-violation-in-google-play-store-6d9cf92d335d
 * free app landing page
 * http://appreviewdesk.com/ios-android-app-websites-landing-pages-free
